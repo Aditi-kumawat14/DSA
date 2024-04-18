@@ -60,10 +60,3 @@ Each algorithm includes its implementation along with explanations of its approa
 
 To use the implementations in your projects, you can simply copy the relevant files into your project directory and import them as needed. Each implementation is self-contained and can be used independently.
 
-## Contributing
-
-Contributions are welcome! If you find any issues, have suggestions, or would like to add more implementations, feel free to open an issue or submit a pull request. Please adhere to the [contributing guidelines](link_to_contributing_guidelines) when contributing to this project.
-
-## License
-
-This project is licensed under the [MIT License](link_to_license). Feel free to use the code in this repository for your own projects.
